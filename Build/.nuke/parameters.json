@@ -1,0 +1,4 @@
+{
+  "$schema": "./build.schema.json",
+  "Solution": "../RevitAddin.WebView2.Example.sln"
+}
